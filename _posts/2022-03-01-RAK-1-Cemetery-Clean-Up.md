@@ -1,0 +1,22 @@
+layout: post
+title: "Fort Massey Cemetery Clean"
+date: 2022-03-01
+categories: RAK
+
+I would like to start with question that is seldom discussed in conversation. How would you like your body to be handled after you die? Until recently, I didn’t have a good answer to this question. It wasn’t until I started spending some time in the cemetery across the street from my apartment building that I gave this question some serious thought.
+
+I absolutely love where I live despite the building interior really not being that nice. What is it about the location of my apartment that’s so great? It’s in close proximity to some amazing sites: Halifax’s waterfront boardwalk, a public library (where I go to look at cook books), and the Fort Massey cemetery which is located just across the street.
+
+I visit the cemetery almost daily to get some fresh air and clear my mind. I used to think it odd to visit a cemetery in which you don’t know anyone who rests there, but then the COVID-19 pandemic forced Halifax into lock down including all the public parks. Looking for any reason to leave the 1-bedroom apartment in which I was spending more time than ever before, I decided that visiting the Fort Massey cemetery wasn’t that weird after all.
+
+After several visits, I was pleasantly surprised. Walking along the cemetery walking path, I felt connected to nature, connected to the spirits of each tombstone, connected to something greater than myself.
+
+Walking through the cemetery helps collect my thoughts. It makes me feel connected to other people while still being alone with my thoughts. I slowly became endeared to this plot of land to the extent that it bothered me to see garbage scattered throughout the cemetery after the snow had melted this March.
+
+Yesterday, my partner and I walked up and down the rows of the cemetery to collect garbage. Exchange of services between me and the deceased. It felt good to give back to a place that has given me so much peace and connection. Again, I felt connected to those buried in the cemetery.
+
+At some point during our garbage collection, I began pondering our original question – how would I like my body to be handled. I thought back to a recent journey through a Vancouver Island old growth forest where I admired all the new life growing from fallen trees. I think that there’s something quite profound about the organic matter of dead organisms contributing to the growth of new life. As humans, we get to decide how we recycle the organic matter in our bodies.
+
+Ultimately, I don’t think a cemetery is the right resting place for my body. For some reason, I feel a greater connection with the universe imagining my body buried in a natural place that people visit to connect with nature, themselves, or others. I want my final resting place to be rich in plant life and visited frequently by other people, two things that cemeteries generally lack. A public park or provincial park has more of the company that I would like to enjoy.
+
+I invite you to think about your death ceremonies by answering the following question – to what would you like your body to be connected with after you pass: friends, family, strangers, plants, animals, a special plot of land? Thank you for exploring these questions surrounding death, connection, and service with me. I would love to hear your vision for your passing.
