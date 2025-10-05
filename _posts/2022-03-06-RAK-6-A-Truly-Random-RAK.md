@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title: "RAK #6: A Truly Random RAK"
 date: 2022-03-06
 categories: RAK
+header:
+  teaser: /images/blog/rak/apple.jpeg
 ---
 
 ![Apple](/images/blog/rak/apple.jpeg)

@@ -1,8 +1,10 @@
 ---
-layout: post
-title: "Why Interesting Data Reports Are Not Good Enough"
+layout: single
+title: "Data: Why Interesting Data Reports Are Not Good Enough"
 date: 2023-06-20
-categories: data
+categories: Data
+header:
+  teaser: /images/blog/data/whoop_v_oura.jpg
 ---
 
 ## Introduction

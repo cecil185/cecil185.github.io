@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title: "RAK #7: A Chance to Fly"
 date: 2022-03-07
 categories: RAK
+header:
+  teaser: /images/blog/rak/mask.jpg
 ---
 
 Two months ago I challenged myself to give seven random acts of kindness to others. Why seven? I wanted to try a variety of kind acts on a regular basis. There were eight weeks until I left Halifax for a trip to Europe, so I would do one RAK per week with one extra week of buffer. I had no idea what the RAKs would be. Each RAK was unique. Some RAKs were pre-meditated, others were truly random, most of them involved non-monetary gifts and many were completed with the help of my partner, Mariah. The final RAK occurred literally as I was getting on a plane to Europe, the trip that I had set as my deadline for these seven RAKs. I gifted someone the ability to get on the plane.

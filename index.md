@@ -11,24 +11,35 @@ feature_row:
   - image_path: /images/blog/rak/card.jpeg
     alt: "Random Acts of Kindness"
     title: "Random Acts of Kindness"
-    excerpt: "A 7-part series documenting my journey of performing random acts of kindness in my Halifax community."
+    excerpt: "A 7-part series documenting my journey of performing random acts of kindness in my community."
     url: "/categories/#rak"
     btn_label: "Read RAK Posts"
     btn_class: "btn--primary"
   - image_path: /images/blog/data/painting.jpg
     alt: "Data & Analytics"
     title: "Data & Analytics"
-    excerpt: "Insights from my work as an analytics engineer and thoughts on effective data visualization and dbt development."
-    url: "/categories/#data"
+    excerpt: "Insights from my work as a data engineer and thoughts on effective data visualization and dbt development."
+    url: "/categories/#Data"
     btn_label: "Read Data Posts"
     btn_class: "btn--primary"
   - image_path: /images/blog/books/how_the_world_really_works.png
     alt: "Book Reflections"
     title: "Book Reflections"
     excerpt: "Reviews and thoughts on books that have shaped my perspective on the world and how it really works."
-    url: "/categories/#books"
+    url: "/categories/#Books"
     btn_label: "Read Book Posts"
     btn_class: "btn--primary"
+
+feature_row2:
+  - image_path: /images/blog/data/whoop_v_oura.jpg
+    alt: "Professional Resume"
+    title: "Professional Experience"
+    excerpt: "Download my resume to learn more about my experience as a data engineer and my professional background."
+    url: "/resume/"
+    btn_label: "View Resume"
+    btn_class: "btn--info"
 ---
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="center" %}

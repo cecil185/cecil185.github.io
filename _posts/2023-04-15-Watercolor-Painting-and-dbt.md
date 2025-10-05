@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Watercolor Painting and dbt"
+title: "Data: Watercolor Painting and dbt"
 date: 2023-04-15
-categories: data
+categories: Data
 header:
   teaser: /images/blog/data/painting.jpg
 ---

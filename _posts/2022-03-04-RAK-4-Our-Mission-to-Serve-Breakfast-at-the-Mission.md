@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title: "RAK #4: Our Mission to Serve Breakfast at the Mission"
 date: 2022-03-04
 categories: RAK
+header:
+  teaser: /images/blog/rak/mission.jpeg
 ---
 
 As Easter weekend draws to a close, I am grateful for many things; particularly the extra day off work to recharge and the opportunity to visit with family this weekend. I am extra aware of these gifts in my life after having spent Good Friday serving breakfast to those in need of a hot meal. It was that first time that I volunteered with such a program. I left feeling good about serving others as well as connected to the community that we served. Today's heightened sense of gratitude is the result of several days of one comment from that morning rattling around my head.

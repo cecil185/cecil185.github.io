@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title: "RAK #3: Letters of Admiration"
 date: 2022-03-03
 categories: RAK
+header:
+  teaser: /images/blog/rak/card.jpeg
 ---
 
 On weekend mornings I like to go for walks after breakfast during which I listen to podcasts. Last weekend, I listened to Jay Shetty talk about 8 types of people that, when present in our lives, improve our health and happiness. Afterwards, I decided to write 7 letters of gratitude and admiration, one per day for the next week, to those people in my life. I invite you to explore the benefits of this simple practice with me.

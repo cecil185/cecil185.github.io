@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title: "RAK #5: The Move"
 date: 2022-03-05
 categories: RAK
+header:
+  teaser: /images/blog/rak/moving.jpeg
 ---
 
 ![It was just like helping a friend move](/images/blog/rak/moving.jpeg)
