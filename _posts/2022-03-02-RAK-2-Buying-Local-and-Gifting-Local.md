@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title: "RAK #2: Buying Local and Gifting Local"
 date: 2022-03-02
 categories: RAK
+header:
+  teaser: /images/blog/rak/farm_hats.jpeg
 ---
 
 People don't buy things, they buy stories. What do your buying habits say about you and your values? This Saturday my partner and I discussed donating food to Feed Nova Scotia, a local charity fighting food insecurity in the province. I was surprised to find out that they accept perishable food. My partner, Mariah, proposed that we not only donate fresh fruit and vegetables, which we thought would be healthier and in higher demand than non-perishable foods, but also that we buy them from the local farmer's market. At first, I felt resistant to the idea of buying food from the farmer's market, but Mariah eventually convinced me. While performing this small act of kindness I reflected on the different meaning and values that Mariah and I each assigned to the act resulting in her excitement and my resistance.

@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title: "How the World Really Works"
 date: 2023-08-10
 categories: books
+header:
+  teaser: /images/blog/books/how_the_world_really_works.png
 ---
 
 ![](/images/blog/books/how_the_world_really_works.png)

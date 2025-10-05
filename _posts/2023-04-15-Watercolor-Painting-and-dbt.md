@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: single
 title: "Watercolor Painting and dbt"
 date: 2023-04-15
 categories: data
+header:
+  teaser: /images/blog/data/painting.jpg
 ---
 
 When I first started working with dbt, I felt a rush of excitement as I learned new ways of coding. I particularly enjoyed the use of macros, a tool to use the same snippet of code in multiple locations of your project. Eventually I submitted some code to a peer for review and received feedback that my extensive use of macros made the code confusing to read. Several weeks later, I received feedback that I should have implemented more macros to make the code less repeatable. Receiving contradictory pieces of advice like this can be frustrating but is an essential part of the learning process. In this essay, I paint a picture of common dilemmas that can trip up new dbt developers and advice on how to deal with them.

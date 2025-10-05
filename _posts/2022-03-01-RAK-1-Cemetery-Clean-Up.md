@@ -1,7 +1,11 @@
-layout: post
-title: "Fort Massey Cemetery Clean"
+---
+layout: single
+title: "RAK #1: Fort Massey Cemetery Clean Up"
 date: 2022-03-01
 categories: RAK
+header:
+  teaser: /images/blog/rak/ed.jpeg
+---
 
 I would like to start with question that is seldom discussed in conversation. How would you like your body to be handled after you die? Until recently, I didn’t have a good answer to this question. It wasn’t until I started spending some time in the cemetery across the street from my apartment building that I gave this question some serious thought.
 
