@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Data: Process Map to Code Better"
-date: 2023-06-20
+date: 2024-10-10
 categories: Data
 header:
   teaser: /images/blog/data/muffin_factory.png
