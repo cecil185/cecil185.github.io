@@ -16,7 +16,7 @@ header:
   </a>
 </div>
 
-<div style="text-align: center; margin: 20px 0;">
+<div style="text-align: center; margin: 10px 0;">
   <a href="/Resume.pdf" class="btn btn--primary btn--large" target="_blank">
     <i class="fas fa-download"></i> Download Resume (PDF)
   </a>

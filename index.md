@@ -32,11 +32,11 @@ feature_row:
 
 feature_row2:
   - image_path: /images/blog/data/whoop_v_oura.jpg
-    alt: "Professional Resume"
-    title: "Professional Experience"
-    excerpt: "Download my resume to learn more about my experience as a data engineer and my professional background."
+    alt: "About My Work"
+    title: "About My Work"
+    excerpt: "See my work experience as a data engineer and a link to download my resume."
     url: "/resume/"
-    btn_label: "View Resume"
+    btn_label: "About My Work"
     btn_class: "btn--info"
 ---
 
