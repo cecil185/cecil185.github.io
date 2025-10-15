@@ -9,6 +9,7 @@ repository: "cecil185/cecil185.github.io"
 # Site Author
 author:
   name: "Cecil Ash"
+  avatar: "/images/headshot.jpeg"
   bio: "Data engineer with a passion for community service and continuous learning"
   location: "Florida, USA"
   links:

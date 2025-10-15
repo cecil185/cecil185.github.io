@@ -7,5 +7,4 @@ main:
     url: /categories/
   - title: "Resume"
     url: /resume/
-  - title: "About"
-    url: /about/
+

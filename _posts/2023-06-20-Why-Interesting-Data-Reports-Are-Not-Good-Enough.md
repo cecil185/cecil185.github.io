@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Data: Why Interesting Data Reports Are Not Good Enough"
+title: "data: Why Interesting Data Reports Are Not Good Enough"
 date: 2023-06-20
 categories: Data
 header:

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Data: Build Projects That Run Anywhere, Instantly"
+title: "data: Build Projects That Run Anywhere, Instantly"
 date: 2024-02-16
 categories: Data
 header:
@@ -31,23 +31,25 @@ If any of these steps are confusing, progress stalls.
 
 After many painful experiences, both as the onboarder and the onboarded, I landed on three principles that significantly increased developer confidence on my projects:
 
-1. Encode setup logic, don’t document it
+### 1. Encode setup logic, don't document it
 
-Aggressively minimize README instructions. Instead enocde these steps in Docker Compose and Makefiles. Configuring environments in a README is like listing every pip install < package > manually rather than using poetry. If a database needs to be running before a project is run, chain those commands together in a Makefile so developers don't need to memorize steps.
+Aggressively minimize README instructions. Instead encode these steps in Docker Compose and Makefiles. Configuring environments in a README is like listing every pip install < package > manually rather than using poetry. If a database needs to be running before a project is run, chain those commands together in a Makefile so developers don't need to memorize steps.
 
 Have a  `make build` to build the docker image, a `make sql` to interact with your database, and a `make test` to run your test suite.
 
 In Robert Cecil Martin's foundational text Clean Code, he argues that comments are crutches—failures to write expressive code. Comments should only exist when code cannot possibly express its intent clearly. I would say that READMEs are similar. They should only contain what cannot be reliably encoded in a Makefile or docker-compose.yaml.
 
-2. Develop in containers from day one
+### 2. Develop in containers from day one
 
 When you develop in containers, you develop in the same environment that runs in production. First, this helps immensely when replicating production bugs locally, and second, this fundamentally shifts where you catch issues when developing.
 
 When I deploy to the cloud, I expect to only surface orchestration problems. I expect to encounter and fix all other problems—missing packages, incorrect dependencies, broken database connections—during local development. I witnessed this difference starkly when I switched projects: my usual workflow required one dev deployment to validate a feature. My new feature on the new project, which no one could run locally, required thirty deployments to dev. Eventually other developers messaged me asking when I'd stop monopolizing the shared Airflow instance—which leads directly to the third principle.
 
-3. Minimize collisions between developers
+### 3. Minimize collisions between developers
 
 Run your entire stack locally: database, Redis, message queues, whatever your architecture requires. The critical insight is that because it's local, developers can freely drop tables, delete data, and experiment without fear of impacting teammates.
+
+![Image](/images/blog/data/destroy-local-database.png)
 
 ## In Short
 

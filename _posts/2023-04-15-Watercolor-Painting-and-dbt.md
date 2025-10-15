@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Data: Watercolor Painting and dbt"
+title: "data: Watercolor Painting and dbt"
 date: 2023-04-15
 categories: Data
 header:

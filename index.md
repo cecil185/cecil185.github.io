@@ -8,6 +8,13 @@ header:
   caption: "Ed, the largest tree in Fort Massey Cemetery"
 excerpt: "Welcome to my blog where I share reflections on technology and volunteering."
 feature_row:
+  - image_path: /images/blog/data/painting.jpg
+    alt: "Data"
+    title: "Data"
+    excerpt: "Insights from my work as a data engineer and thoughts on effective data visualization and dbt development."
+    url: "/categories/#Data"
+    btn_label: "Read Data Posts"
+    btn_class: "btn--primary"
   - image_path: /images/blog/rak/card.jpeg
     alt: "Random Acts of Kindness"
     title: "Random Acts of Kindness"
@@ -15,24 +22,8 @@ feature_row:
     url: "/categories/#rak"
     btn_label: "Read RAK Posts"
     btn_class: "btn--primary"
-  - image_path: /images/blog/data/painting.jpg
-    alt: "Data & Analytics"
-    title: "Data & Analytics"
-    excerpt: "Insights from my work as a data engineer and thoughts on effective data visualization and dbt development."
-    url: "/categories/#Data"
-    btn_label: "Read Data Posts"
-    btn_class: "btn--primary"
-
-feature_row2:
-  - image_path: /images/blog/data/whoop_v_oura.jpg
-    alt: "About My Work"
-    title: "About My Work"
-    excerpt: "See my work experience as a data engineer and a link to download my resume."
-    url: "/resume/"
-    btn_label: "About My Work"
-    btn_class: "btn--info"
 ---
 
-{% include feature_row %}
+{% include feature_row type="center" %}
 
 {% include feature_row id="feature_row2" type="center" %}
