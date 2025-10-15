@@ -6,7 +6,7 @@ header:
   overlay_image: /images/blog/rak/ed.jpeg
   overlay_filter: 0.5
   caption: "Ed, the largest tree in Fort Massey Cemetery"
-excerpt: "Welcome to my blog where I share thoughts on technology, random acts of kindness, and reflections on books that have shaped my perspective."
+excerpt: "Welcome to my blog where I share reflections on technology and volunteering."
 feature_row:
   - image_path: /images/blog/rak/card.jpeg
     alt: "Random Acts of Kindness"
@@ -21,13 +21,6 @@ feature_row:
     excerpt: "Insights from my work as a data engineer and thoughts on effective data visualization and dbt development."
     url: "/categories/#Data"
     btn_label: "Read Data Posts"
-    btn_class: "btn--primary"
-  - image_path: /images/blog/books/how_the_world_really_works.png
-    alt: "Book Reflections"
-    title: "Book Reflections"
-    excerpt: "Reviews and thoughts on books that have shaped my perspective on the world and how it really works."
-    url: "/categories/#Books"
-    btn_label: "Read Book Posts"
     btn_class: "btn--primary"
 
 feature_row2:

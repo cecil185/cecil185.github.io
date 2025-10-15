@@ -19,9 +19,6 @@ I challenged myself to perform seven random acts of kindness over seven weeks. T
 **📊 Data & Analytics**  
 I write about the parallels I see between data work and other areas of life, like watercolor painting, and share insights about building truly actionable dashboards.
 
-**📚 Book Reflections**  
-I explore how the ideas I encounter in books translate into real-world action and perspective.
-
 
 ### Get in Touch
 
