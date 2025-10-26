@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "data: Process Map to Code Better"
+title: "data: Process Map to Help Your Team Code Better"
 date: 2024-10-10
 categories: Data
 header:
@@ -42,4 +42,4 @@ That said, architecture diagrams have their strengths:
 - They’re great for tracing how failures propagate across services or APIs.
 - They help communicate security boundaries and permissioning between systems.
 
-Of course, the two diagrams complement each other, but process diagrams feel under-appreciated to me, and they can make the difference between a project that looks good on paper and one that actually delivers.
+Pick the diagram for the job and the audience. To earn buy‑in for new infrastructure, a before/after architecture diagram quickly shows the difference and builds trust; when pairing to debug a complex component, co‑creating a process diagram makes the steps and dependencies clear and promotes creative thinking. Be intentional when using architecture and process diagrams becase in the end - effective communication and collaboration is what makes or breaks software teams.
