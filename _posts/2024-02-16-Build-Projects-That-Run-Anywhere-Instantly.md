@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "data: Build Projects That Run Anywhere, Instantly"
+title: "data: Local Development That Makes Teams Faster"
 date: 2024-02-16
 categories: Data
 header:
   teaser: /images/blog/data/muffin_factory.png
 ---
 
-As I've moved between engineering teams throughout my career, I’ve been struck by how drastically the local development experience can differ. Some projects take a full day to set up, with README instructions that omit crucial steps and ultimately require a video call with the original developer. Other projects I can have running in fifteen minutes. When new engineers join my projects, I challenge myself to get them running locally in five minutes and deploying code on day one.
+As I've moved between engineering teams throughout my career, I’ve been struck by how inconsistent the local development experience can be. Some projects take a full day to set up, with README instructions that omit crucial steps and ultimately require a video call with the original developer. Other projects I can have running in fifteen minutes. When new engineers join my projects, I challenge myself to get them running locally in five minutes and deploying code on day one.
 
 ## Why This Matters
 
@@ -15,21 +15,21 @@ Projects where only a handful of long-tenured engineers can contribute to the co
 
 ### The Hidden Work Behind “Run the Code”
 
-Before contributing, every engineer must:
+Contributing to a codebase involves:
 
-- Install dependencies
-- Database schema changes
-- Run code & tests
-- Containerize environments
-- Reproduce bugs locally
-- Document their work
+- Installing dependencies
+- Evolving database schemas
+- Running code & tests
+- Containerizing environments
+- Reproducing bugs locally
+- Documenting
 - Integrating new code & tests with existing code
 
 If any of these steps are confusing, progress stalls.
 
-## The Three Foundations
+## Three Core Principles
 
-After many painful experiences, both as the onboarder and the onboarded, I landed on three principles that significantly increased developer confidence on my projects:
+After many painful experiences, both as the onboarder and the onboarded, I landed on three principles that significantly increased developer confidence:
 
 ### 1. Encode setup logic, don't document it
 
@@ -43,11 +43,11 @@ In Robert Cecil Martin's foundational text Clean Code, he argues that comments a
 
 When you develop in containers, you develop in the same environment that runs in production. First, this helps immensely when replicating production bugs locally, and second, this fundamentally shifts where you catch issues when developing.
 
-When I deploy to the cloud, I expect to only surface orchestration problems. I expect to encounter and fix all other problems—missing packages, incorrect dependencies, broken database connections—during local development. I witnessed this difference starkly when I switched projects: my usual workflow required one dev deployment to validate a feature. My new feature on the new project, which no one could run locally, required thirty deployments to dev. Eventually other developers messaged me asking when I'd stop monopolizing the shared Airflow instance—which leads directly to the third principle.
+When I deploy to the cloud, I expect to only surface orchestration problems. I expect to encounter and fix all other problems—missing packages, incorrect dependencies, broken database connections—during local development. I witnessed this difference starkly when I switched projects: my usual workflow required one dev deployment to validate a feature. A feature I built on a project that no one could run locally required thirty dev deployments. Eventually other developers messaged me asking when I'd stop monopolizing the shared Airflow instance—which leads directly to the third principle.
 
 ### 3. Minimize collisions between developers
 
-Run your entire stack locally: database, Redis, message queues, whatever your architecture requires. The critical insight is that because it's local, developers can freely drop tables, delete data, and experiment without fear of impacting teammates.
+Run your entire stack locally: database, Redis, message queues, whatever your architecture requires. The critical piece is that because it's local, developers can freely drop tables, delete data, and experiment without fear of impacting teammates.
 
 ![Image](/images/blog/data/destroy-local-database.png)
 
