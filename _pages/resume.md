@@ -26,11 +26,10 @@ header:
 
 ### Quick Overview
 
+- 5 years of  experience in  data using Python/dbt/Snowflake/AWS/GCP/Airflow/Kubernetes/Docker
 - Current role: Machine Learning Engineer @ Teamworks  
-- 4 years of  experience in  data using Python/dbt/Snowflake/AWS/GCP/Airflow/Kubernetes/Docker
 - Architect of 3 data-driven products, each taken to market in 6 months or less.
 - Education: M.A.Sc and B.Sc Industrial Engineering at Dalhousie University, Canada: [link to research](https://www.sciencedirect.com/science/article/pii/S0360835222001218?via%3Dihub)
-- USA citizen
 
 ---
 

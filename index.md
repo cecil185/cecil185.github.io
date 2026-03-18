@@ -1,12 +1,7 @@
 ---
 layout: home
 author_profile: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /images/blog/rak/ed.jpeg
-  overlay_filter: 0.5
-  caption: "Ed, the largest tree in Fort Massey Cemetery"
-excerpt: "Welcome to my blog where I share reflections on technology and volunteering."
+header: false
 feature_row:
   - image_path: /images/blog/data/painting.jpg
     alt: "Data"
