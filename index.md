@@ -12,7 +12,7 @@ feature_row:
     alt: "Data"
     title: "Data"
     excerpt: "Insights from my work as a data engineer and thoughts on effective data visualization and dbt development."
-    url: "/categories/#Data"
+    url: "/categories/#data"
     btn_label: "Read Data Posts"
     btn_class: "btn--primary"
   - image_path: /images/blog/rak/card.jpeg
